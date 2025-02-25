@@ -1,7 +1,0 @@
-<templates>
-    <t t-name="website_knowledge.NoChildArticle">
-        <li class="position-relative py-1">
-            <span class="text-muted ps-2">No Articles here</span>
-        </li>
-    </t>
-</templates>
