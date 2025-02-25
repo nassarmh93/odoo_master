@@ -1,0 +1,353 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* l10n_nl_intrastat
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 17.3alpha1+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-06 12:31+0000\n"
+"PO-Revision-Date: 2024-05-06 12:31+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: l10n_nl_intrastat
+#: model:ir.model.fields,help:l10n_nl_intrastat.field_l10n_nl_reports_sbr_icp_icp_wizard__contact_type
+msgid ""
+"BPL: if the taxpayer files a turnover tax return as an individual "
+"entrepreneur.INT: if the turnover tax return is made by an intermediary."
+msgstr ""
+"BPL: als de belastingplichtige als individuele ondernemer aangifte "
+"omzetbelasting doet.INT: als de aangifte omzetbelasting wordt gedaan door "
+"een intermediair."
+
+#. module: l10n_nl_intrastat
+#. odoo-python
+#: code:addons/l10n_nl_intrastat/models/account_intrastat_report.py:0
+#: code:addons/l10n_nl_intrastat/models/account_intrastat_report.py:0
+#: model_terms:ir.ui.view,arch_db:l10n_nl_intrastat.res_company_form_inherit_l10n_nl
+msgid "CBS"
+msgstr ""
+
+#. module: l10n_nl_intrastat
+#: model:ir.model.fields,field_description:l10n_nl_intrastat.field_l10n_nl_reports_sbr_icp_icp_wizard__can_report_be_sent
+msgid "Can Report Be Sent"
+msgstr "Kan Rapport Verzonden Worden"
+
+#. module: l10n_nl_intrastat
+#: model:ir.model.fields,field_description:l10n_nl_intrastat.field_l10n_nl_reports_sbr_icp_icp_wizard__password
+msgid "Certificate or private key password"
+msgstr "Certificaat of wachtwoord voor privésleutel"
+
+#. module: l10n_nl_intrastat
+#: model:ir.model.fields,help:l10n_nl_intrastat.field_l10n_nl_reports_sbr_icp_icp_wizard__is_test
+msgid ""
+"Check this if you want the system to use the pre-production environment with"
+" test certificates."
+msgstr ""
+"Vink dit aan als u wilt dat het systeem gebruik maakt van de pre-productie "
+"omgeving met test certificaten"
+
+#. module: l10n_nl_intrastat
+#: model_terms:ir.ui.view,arch_db:l10n_nl_intrastat.l10n_nl_reports_sbr_icp_icp_wizard_form
+msgid "Close"
+msgstr "Sluiten"
+
+#. module: l10n_nl_intrastat
+#. odoo-python
+#: code:addons/l10n_nl_intrastat/wizard/l10n_nl_sbr_icp_wizard.py:0
+msgid "Closing Entry"
+msgstr "Afsluitende Inzending"
+
+#. module: l10n_nl_intrastat
+#: model:ir.model,name:l10n_nl_intrastat.model_res_company
+msgid "Companies"
+msgstr "Bedrijven"
+
+#. module: l10n_nl_intrastat
+#: model:ir.model.fields,field_description:l10n_nl_intrastat.field_l10n_nl_reports_sbr_icp_icp_wizard__company_id
+msgid "Company"
+msgstr "Bedrijf"
+
+#. module: l10n_nl_intrastat
+#: model:ir.model.fields,field_description:l10n_nl_intrastat.field_l10n_nl_reports_sbr_icp_icp_wizard__contact_initials
+msgid "Contact Initials"
+msgstr "Initialen Contactpersoon"
+
+#. module: l10n_nl_intrastat
+#: model:ir.model.fields,field_description:l10n_nl_intrastat.field_l10n_nl_reports_sbr_icp_icp_wizard__contact_surname
+msgid "Contact Last Name"
+msgstr "Achternaam Contactpersoon"
+
+#. module: l10n_nl_intrastat
+#: model:ir.model.fields,field_description:l10n_nl_intrastat.field_l10n_nl_reports_sbr_icp_icp_wizard__contact_prefix
+msgid "Contact Name Infix"
+msgstr "Tussenvoegsel Contactpersoonnaam"
+
+#. module: l10n_nl_intrastat
+#: model:ir.model.fields,field_description:l10n_nl_intrastat.field_l10n_nl_reports_sbr_icp_icp_wizard__contact_phone
+msgid "Contact Phone"
+msgstr "Telefoonnummer Contactpersoon"
+
+#. module: l10n_nl_intrastat
+#: model:ir.model.fields,field_description:l10n_nl_intrastat.field_l10n_nl_reports_sbr_icp_icp_wizard__contact_type
+msgid "Contact Type"
+msgstr "Type Contactpersoon"
+
+#. module: l10n_nl_intrastat
+#. odoo-python
+#: code:addons/l10n_nl_intrastat/wizard/l10n_nl_sbr_icp_wizard.py:0
+msgid "Create Closing Entry"
+msgstr "Maak Afsluitende Inzending"
+
+#. module: l10n_nl_intrastat
+#: model_terms:ir.ui.view,arch_db:l10n_nl_intrastat.l10n_nl_reports_sbr_icp_icp_wizard_form
+msgid "Create EC Sales (ICP) XBRL for SBR"
+msgstr "Maak EC Sales (ICP) XBRL voor SBR"
+
+#. module: l10n_nl_intrastat
+#: model:ir.model.fields,field_description:l10n_nl_intrastat.field_l10n_nl_reports_sbr_icp_icp_wizard__create_uid
+msgid "Created by"
+msgstr "Gemaakt door"
+
+#. module: l10n_nl_intrastat
+#: model:ir.model.fields,field_description:l10n_nl_intrastat.field_l10n_nl_reports_sbr_icp_icp_wizard__create_date
+msgid "Created on"
+msgstr "Gemaakt op"
+
+#. module: l10n_nl_intrastat
+#: model:ir.model.fields,field_description:l10n_nl_intrastat.field_l10n_nl_reports_sbr_icp_icp_wizard__display_name
+msgid "Display Name"
+msgstr "Weergavenaam"
+
+#. module: l10n_nl_intrastat
+#: model_terms:ir.ui.view,arch_db:l10n_nl_intrastat.l10n_nl_reports_sbr_icp_icp_wizard_form
+msgid "Download"
+msgstr ""
+
+#. module: l10n_nl_intrastat
+#: model:ir.model,name:l10n_nl_intrastat.model_l10n_nl_ec_sales_report_handler
+msgid "Dutch EC Sales Report Custom Handler"
+msgstr ""
+
+#. module: l10n_nl_intrastat
+#. odoo-python
+#: code:addons/l10n_nl_intrastat/models/account_sales_report.py:0
+msgid "EC Sales (ICP) SBR"
+msgstr "EG-Verkoop (ICP) SBR"
+
+#. module: l10n_nl_intrastat
+#. odoo-python
+#: code:addons/l10n_nl_intrastat/wizard/l10n_nl_sbr_icp_wizard.py:0
+msgid "Go to Apps"
+msgstr "Ga naar Apps"
+
+#. module: l10n_nl_intrastat
+#. odoo-python
+#: code:addons/l10n_nl_intrastat/wizard/l10n_nl_sbr_icp_wizard.py:0
+msgid "ICP report sent"
+msgstr "ICP rapport verzonden"
+
+#. module: l10n_nl_intrastat
+#: model:ir.model.fields,field_description:l10n_nl_intrastat.field_l10n_nl_reports_sbr_icp_icp_wizard__id
+msgid "ID"
+msgstr ""
+
+#. module: l10n_nl_intrastat
+#: model:ir.model,name:l10n_nl_intrastat.model_account_intrastat_report_handler
+msgid "Intrastat Report Custom Handler"
+msgstr "Aangepaste handler voor Intrastat-rapportages"
+
+#. module: l10n_nl_intrastat
+#: model:ir.model.fields,field_description:l10n_nl_intrastat.field_l10n_nl_reports_sbr_icp_icp_wizard__is_test
+msgid "Is Test"
+msgstr ""
+
+#. module: l10n_nl_intrastat
+#: model:ir.model,name:l10n_nl_intrastat.model_l10n_nl_reports_sbr_icp_icp_wizard
+msgid "L10n NL Intra-Communautaire Prestaties for SBR Wizard"
+msgstr ""
+
+#. module: l10n_nl_intrastat
+#: model:ir.model.fields,field_description:l10n_nl_intrastat.field_res_company__l10n_nl_reports_sbr_icp_last_sent_date_to
+msgid "Last Date Sent (ICP)"
+msgstr "Datum Laatst Verzonden (ICP)"
+
+#. module: l10n_nl_intrastat
+#: model:ir.model.fields,field_description:l10n_nl_intrastat.field_l10n_nl_reports_sbr_icp_icp_wizard__write_uid
+msgid "Last Updated by"
+msgstr "Laatst Bijgewerkt door"
+
+#. module: l10n_nl_intrastat
+#: model:ir.model.fields,field_description:l10n_nl_intrastat.field_l10n_nl_reports_sbr_icp_icp_wizard__write_date
+msgid "Last Updated on"
+msgstr "Laatst Bijgewerkt op"
+
+#. module: l10n_nl_intrastat
+#: model_terms:ir.ui.view,arch_db:l10n_nl_intrastat.l10n_nl_reports_sbr_icp_icp_wizard_form
+msgid "New SBR File"
+msgstr "Nieuw SBR Bestand"
+
+#. module: l10n_nl_intrastat
+#. odoo-python
+#: code:addons/l10n_nl_intrastat/wizard/l10n_nl_sbr_icp_wizard.py:0
+msgid ""
+"No Closing Entry was found for the selected period. Please create one and "
+"post it before sending your report."
+msgstr ""
+"Er is geen Afsluitende Inzending gevonden voor de geselecteerde periode. "
+"Maak er een aan en plaats deze voordate u uw rapport verzendt."
+
+#. module: l10n_nl_intrastat
+#: model:ir.model.fields,field_description:l10n_nl_intrastat.field_l10n_nl_reports_sbr_icp_icp_wizard__date_to
+msgid "Period Ending Date"
+msgstr "Einddatum Periode"
+
+#. module: l10n_nl_intrastat
+#: model:ir.model.fields,field_description:l10n_nl_intrastat.field_l10n_nl_reports_sbr_icp_icp_wizard__date_from
+msgid "Period Starting Date"
+msgstr "Startdatum Periode"
+
+#. module: l10n_nl_intrastat
+#: model:ir.model.fields,field_description:l10n_nl_intrastat.field_res_company__l10n_nl_cbs_reg_number
+msgid "Registration Number"
+msgstr "Registratienummer"
+
+#. module: l10n_nl_intrastat
+#: model_terms:ir.ui.view,arch_db:l10n_nl_intrastat.l10n_nl_reports_sbr_icp_icp_wizard_form
+msgid "Send"
+msgstr "Verzenden"
+
+#. module: l10n_nl_intrastat
+#. odoo-python
+#: code:addons/l10n_nl_intrastat/wizard/l10n_nl_sbr_icp_wizard.py:0
+msgid "Sending your report"
+msgstr "Verzenden van uw rapport"
+
+#. module: l10n_nl_intrastat
+#: model:ir.model.fields,help:l10n_nl_intrastat.field_res_company__l10n_nl_reports_sbr_icp_last_sent_date_to
+msgid ""
+"Stores the date of the end of the last period submitted to the Digipoort "
+"Services for ICP"
+msgstr ""
+"Slaat de einddatum van de laatst ingediende periode op in de Digipoort "
+"Diensten voor ICP"
+
+#. module: l10n_nl_intrastat
+#: model:ir.model.fields,field_description:l10n_nl_intrastat.field_l10n_nl_reports_sbr_icp_icp_wizard__tax_consultant_number
+msgid "Tax Consultant Number"
+msgstr "Belastingsconsultant Nummer"
+
+#. module: l10n_nl_intrastat
+#. odoo-python
+#: code:addons/l10n_nl_intrastat/wizard/l10n_nl_sbr_icp_wizard.py:0
+msgid ""
+"The Closing Entry for the selected period is still in draft. Please post it "
+"before sending your report."
+msgstr ""
+"De Afsluitende Inzending voor de geselecteerde periode is nog steeds in "
+"ontwerp. Plaats deze voor u uw rapport verzendt."
+
+#. module: l10n_nl_intrastat
+#. odoo-python
+#: code:addons/l10n_nl_intrastat/wizard/l10n_nl_sbr_icp_wizard.py:0
+msgid ""
+"The ICP report from %(date_from)s to %(date_to)s was sent to "
+"Digipoort.<br/>We will post its processing status in this chatter once "
+"received.<br/>Discussion id: %(id)s"
+msgstr ""
+"Het ICP-rapport van %(date_from)s tot %(date_to)s is naar Digipoort "
+"verzonden.<br/>We zullen de verwerkingsstatus ervan in deze chatter plaatsen"
+" zodra we deze hebben ontvangen.<br/>Discussie-ID: %(id)s"
+
+#. module: l10n_nl_intrastat
+#. odoo-python
+#: code:addons/l10n_nl_intrastat/wizard/l10n_nl_sbr_icp_wizard.py:0
+msgid ""
+"The Tax Services returned the error hereunder. Please upgrade your module "
+"and try again before submitting a ticket."
+msgstr ""
+"De Belastingdienst heeft de fout hieronder geretourneerd. Upgrade uw module "
+"en probeer het opnieuw voordat u een ticket indient."
+
+#. module: l10n_nl_intrastat
+#: model:ir.model.fields,help:l10n_nl_intrastat.field_l10n_nl_reports_sbr_icp_icp_wizard__password
+msgid "The password is not needed for just printing the XBRL file."
+msgstr ""
+"Het wachtwoord is niet nodig om alleen het XBRL bestand af te drukken."
+
+#. module: l10n_nl_intrastat
+#: model:ir.model.fields,help:l10n_nl_intrastat.field_l10n_nl_reports_sbr_icp_icp_wizard__tax_consultant_number
+msgid ""
+"The tax consultant number of the office aware of the content of this report."
+msgstr ""
+"De belastingsconsultant nummer van het kantoor dat bewust is van de inhoud "
+"van dit rapport."
+
+#. module: l10n_nl_intrastat
+#. odoo-python
+#: code:addons/l10n_nl_intrastat/models/account_intrastat_report.py:0
+msgid ""
+"The transaction codes that have been used are inconsistent with the time "
+"period. Before January 2021 the transaction codes for a period should "
+"consist of single-digits only. Before January 2022 transactions codes should"
+" consist of exclusively single-digits or double-digits. Please ensure all "
+"transactions in the specified period utilise the correct transaction codes."
+msgstr ""
+"De transactiecodes die gebruikt werden komen niet overeen met de "
+"tijdperiode. Vóór Januari 2022 mogen transactiecodes alleenmaar bestaan uit "
+"enkele of dubbele cijfers. Zorg ervoor dat alle transacties in de "
+"gespecifieerde periode gebruik maken van correcte transactiecodes."
+
+#. module: l10n_nl_intrastat
+#. odoo-python
+#: code:addons/l10n_nl_intrastat/models/account_intrastat_report.py:0
+msgid ""
+"The transaction codes that have been used are inconsistent with the time "
+"period. From the start of January 2022 onwards the transaction codes should "
+"consist of two digits only (no single-digit codes). Please ensure all "
+"transactions in the specified period utilise the correct transaction codes."
+msgstr ""
+"De transactiecodes die gebruikt werden komen niet overeen met de "
+"tijdperiode. Vanaf begin van Januari 2022 mogen de transactiecodes "
+"alleenmaar bestaan uit dubbele cijfers (geen enkel cijferige codes). Zorg "
+"ervoor dat alle transacties in de gespecifieerde periode gebruik maken van "
+"correcte transactiecodes."
+
+#. module: l10n_nl_intrastat
+#. odoo-python
+#: code:addons/l10n_nl_intrastat/models/account_sales_report.py:0
+msgid "Total"
+msgstr "Totaal"
+
+#. module: l10n_nl_intrastat
+#. odoo-python
+#: code:addons/l10n_nl_intrastat/models/account_sales_report.py:0
+msgid "View Partner"
+msgstr "Partner Bekijken"
+
+#. module: l10n_nl_intrastat
+#. odoo-python
+#: code:addons/l10n_nl_intrastat/models/account_sales_report.py:0
+#: code:addons/l10n_nl_intrastat/models/account_sales_report.py:0
+msgid "XBRL"
+msgstr ""
+
+#. module: l10n_nl_intrastat
+#. odoo-python
+#: code:addons/l10n_nl_intrastat/wizard/l10n_nl_sbr_icp_wizard.py:0
+msgid ""
+"Your ICP report is being sent to Digipoort. Check its status in the closing "
+"entry's chatter."
+msgstr ""
+"Uw ICP-rapport wordt verzonden naar Digipoort. Controleer de status ervan in"
+" de chatter van het afsluitende item."
+
+#. module: l10n_nl_intrastat
+#: model_terms:ir.ui.view,arch_db:l10n_nl_intrastat.icp_report_sbr
+msgid "iso4217:EUR"
+msgstr ""
